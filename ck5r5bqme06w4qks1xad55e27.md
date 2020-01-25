@@ -35,7 +35,7 @@ myPseudoChildClassObject.sayHelloP();//Output Hello Mom and Dad!
 What JavaScript does here is it traverses the prototype chain until it finds the *callable *properties sayHelloGP and sayHelloP and then executes them.
 In case it fails to find them, it results in `TypeError`.
 
-What do you think will happen if I add sayHelloP as a property on the child class itself.
+What do you think will happen if I add `sayHelloP` as a property on the child class itself.
 
 ```
 function MyPseudoGrandParentClass(myProperty){
