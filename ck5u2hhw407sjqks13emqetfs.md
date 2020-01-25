@@ -1,6 +1,6 @@
 ## 7. The Strict Mode, Natives and Primitives
 
-Moving on from the  [last post](https://diganta.hashnode.dev/6-prototype-chain-objectcreate-and-more-ck5r5bqme06w4qks1xad55e27)  let us go back to the ECMAScript(JavaScript) specifications and explore the *Strict Mode*
+Moving on from the  [last post](https://diganta.hashnode.dev/6-prototype-chain-objectcreate-and-more-ck5r5bqme06w4qks1xad55e27)  let us go back to the ECMAScript(JavaScript) specifications and explore the *Strict Mode*, and the features that define the various datatypes of JavaScript viz. *Natives* and *Primitives*
 
 # The Strict Mode
 JavaScript is in general a very forgiving language. It ignores a lot of stuff which other programming languages would generally start complaining about. By doing so there might be potential security issues and we live in an age where unethical hacking is quite common and prevalent, ECMAScript gives us an option to make things safer in terms of code implementation.
