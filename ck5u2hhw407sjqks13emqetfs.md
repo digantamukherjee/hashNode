@@ -48,7 +48,33 @@ function TestStrict(){
     console.log("I am strict!");
 }
 ```
-For the numerous features it has, ECMAScript clearly states rules on how the `strict mode` should treat certain cases. We will take note of them as and when we explore those features. 
+Some of the restrictions the *strict mode* puts are:
+- using the `delete` keyword on `var`
+- naming a variable or function arguments as `var` or `eval`
+- using the `with` statement
+- using octal syntax e.g. `var oct = 023;`
+- declaring function inside a block
+
+```
+if(a>b){
+    function f1(){
+        console.log("error in strict mode");
+    }
+}
+``` 
+- declaring same variable twice
+- setting value to an undeclared variable
+
+```
+"use strict";
+a = 5;//error in strict mode
+var a;
+``` 
+
+- deleting non-configurable property e.g. `delete Object.prototype`
+- using `arguments.caller` or `arguments.callee`
+
+For the numerous other features it has, ECMAScript clearly states rules on how the `strict mode` should treat certain cases. We will take note of them as and when we explore those features. 
 
 
 # Primitives
