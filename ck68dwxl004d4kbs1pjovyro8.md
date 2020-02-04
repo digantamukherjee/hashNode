@@ -1,4 +1,4 @@
-## 7. The Object Type
+## 8. The Object Type
 
 In the  [last post](https://diganta.hashnode.dev/7-the-strict-mode-natives-and-primitives-ck5u2hhw407sjqks13emqetfs) we got to know about the *strict mode, natives and primitives* of JavaScript. Now lets understand in detail about a very important *type* in JavaScript which basically forms the base of this language called the *Object* type.
 
