@@ -137,7 +137,7 @@ console.log(boo);//Output [Boolean: true]
 
 This sums up the basic of Natives and Primitives. We shall discuss in depth the built-in objects and the properties they carry in future posts.
 
-For now let's dig into the Object Type a bit more in the next post.
+For now let's dig into the Object Type a bit more in the  [next post](https://diganta.hashnode.dev/8-the-object-type-ck68dwxl004d4kbs1pjovyro8) .
 
 References:
 
