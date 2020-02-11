@@ -157,4 +157,4 @@ console.log(objB);//{ prop1: 'changedProp' }
 ``` 
 Here the formal parameter to the function `ChangeObjectProp` holds the reference same as what `objB` holds. And because of this the original object got modified which again confirms that the object was passed by reference.
 
-Now we have seen the Reference Specification type and how type conversions will behave in the world of JavaScript, we will move on to a core concept of Lexical Environment and Scope in our next post.
+Now we have seen the Reference Specification type and how type conversions will behave in the world of JavaScript, we will move on to a core concept of Lexical Environment and Scope in our  [next post](https://diganta.hashnode.dev/10-lexical-environments-execution-context-scope-and-hoisting-in-javascript-ck6id2pdo00dmd9s1siz1jasg) .
