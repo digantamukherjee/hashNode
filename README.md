@@ -22,3 +22,5 @@ https://diganta.hashnode.dev/8-the-object-type-ck68dwxl004d4kbs1pjovyro8
 https://diganta.hashnode.dev/9-the-reference-specification-type-and-type-conversions-in-javascript-ck69oog0p04vvkbs15wmoob48
 10. Lexical Environments, Execution Context, Scope and Hoisting in JavaScript
 https://diganta.hashnode.dev/10-lexical-environments-execution-context-scope-and-hoisting-in-javascript-ck6id2pdo00dmd9s1siz1jasg
+11. this and call, bind and apply in JavaScript
+https://diganta.hashnode.dev/11-this-and-call-bind-and-apply-in-javascript-ck6jr64ob00y5dfs1cftq7u8e
