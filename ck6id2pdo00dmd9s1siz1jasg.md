@@ -234,7 +234,7 @@ It is important to note at this point that the **Variable object** we have been 
 
 Now that we have some idea about how JavaScript interpreter behaves under the hood it will be possible to write code with better understanding of its outcome. 
 
-In the next post we shall discuss about closures.
+In the  [next post](https://diganta.hashnode.dev/11-this-and-call-bind-and-apply-in-javascript-ck6jr64ob00y5dfs1cftq7u8e)  we shall discuss about how the interpreter finds out the value of `this` variable of the execution context and how we can control it.
 
 **References**:
 
