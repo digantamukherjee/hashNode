@@ -81,7 +81,7 @@ The Global object exposes the constructor functions of all the built-in function
 These include built in helper Objects like `Math()` and `JSON`.  
   
 # The Object object#  
-The JavaScript Object object can be used as either a *Function* or as a *Constructor Function*(with the `new` keyword) and the behavior is same for both of  these invocations.
+The JavaScript Object object can be used as either a *Function* or  with the `new` keyword(here the constructor creates the object) and the behavior is same for both of  these invocations.
 
 Beside the internal properties and the length property the Object constructor has the following properties:    
 ### Properties of the Object Constructor ###  
