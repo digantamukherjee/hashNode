@@ -28,3 +28,5 @@ https://diganta.hashnode.dev/11-this-and-call-bind-and-apply-in-javascript-ck6jr
 https://diganta.hashnode.dev/post/12-closures-in-javascript-ck6l3tfv301djdfs1fci2acaa
 13. Operators in JavaScript  
 https://diganta.hashnode.dev/13-operators-in-javascript-ck6v1zyik04l9dfs1utgwtceb
+14. Built-in Objects of JavaScript/ECMAScript -Part I  
+https://diganta.hashnode.dev/14-built-in-objects-of-javascriptecmascript-part-i-ck6v7d8sw04mrdfs1sh5a0gj0
