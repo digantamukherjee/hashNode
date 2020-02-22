@@ -113,7 +113,7 @@ Beside the internal properties and the length property the Object constructor ha
 Instance do not have any special properties apart form what they inherit form the Object prototype object.
   
   
-We shall continue with in-depth study of built in objects in the next post.  
+We shall continue with in-depth study of built in objects in the  [next post](https://diganta.hashnode.dev/15-built-in-objects-of-javascriptecmascript-part-ii-ck6xhd24g05d8dfs1nne8gf6s) .  
 
 Reference:  
 [ECMA](https://www.ecma-international.org/ecma-262/5.1/#sec-15)  
