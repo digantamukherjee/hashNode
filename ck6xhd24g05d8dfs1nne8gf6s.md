@@ -221,6 +221,21 @@ If a `thisArg` parameter is provided, it will be used as the this value for each
 map does not directly mutate the object on which it is called but the object may be mutated by the calls to *callbackfn*.  
 The range of elements processed by map is set before the first call to *callbackfn*. Elements which are appended to the array after the call to `map` begins will not be visited by *callbackfn*. If existing elements of the array are changed, their value as passed to *callbackfn* will be the value at the time `map` visits them; elements that are deleted after the call to `map` begins and before being visited are not visited.  `map()` returns a new array.  
 `map()` should not be used where an array is not expected to be returned. In those cases `forEach` should be used.  
+```
+var arr = [4,5,6,12,3,88,4,67,55,31];
+var aThisObject = {
+	a: 5
+};
+var x = arr.map(function(currentValue, index, arry){
+	console.log(this);
+	console.log(arry[index]);
+	if(index%2 === 0){
+		return arry[index] + this.a;
+	}
+	return arry[index]
+},aThisObject);
+console.log(x);//[ 9, 5, 11, 12, 8, 88, 9, 67, 60, 31 ]
+```
 **A tricky use case**- What could be the output of the below code?  
 ```
 ["1", "2", "3"].map(parseInt);
