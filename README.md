@@ -29,4 +29,6 @@ https://diganta.hashnode.dev/post/12-closures-in-javascript-ck6l3tfv301djdfs1fci
 13. Operators in JavaScript  
 https://diganta.hashnode.dev/13-operators-in-javascript-ck6v1zyik04l9dfs1utgwtceb
 14. Built-in Objects of JavaScript/ECMAScript -Part I  
-https://diganta.hashnode.dev/14-built-in-objects-of-javascriptecmascript-part-i-ck6v7d8sw04mrdfs1sh5a0gj0
+https://diganta.hashnode.dev/14-built-in-objects-of-javascriptecmascript-part-i-ck6v7d8sw04mrdfs1sh5a0gj0  
+15. Built-in Objects of JavaScript/ECMAScript -Part II
+https://diganta.hashnode.dev/15-built-in-objects-of-javascriptecmascript-part-ii-ck6xhd24g05d8dfs1nne8gf6s
