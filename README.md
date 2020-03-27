@@ -25,7 +25,7 @@ https://diganta.hashnode.dev/10-lexical-environments-execution-context-scope-and
 11. this and call, bind and apply in JavaScript  
 https://diganta.hashnode.dev/11-this-and-call-bind-and-apply-in-javascript-ck6jr64ob00y5dfs1cftq7u8e
 12. Closures in JavaScript  
-https://diganta.hashnode.dev/post/12-closures-in-javascript-ck6l3tfv301djdfs1fci2acaa
+https://diganta.hashnode.dev/12-closures-in-javascript-ck8ai3xh1006urjs1z9b60jrs
 13. Operators in JavaScript  
 https://diganta.hashnode.dev/13-operators-in-javascript-ck6v1zyik04l9dfs1utgwtceb
 14. Built-in Objects of JavaScript/ECMAScript -Part I  
