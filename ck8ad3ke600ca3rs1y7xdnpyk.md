@@ -1,4 +1,4 @@
-## 19. Built-in Objects of JavaScript/ECMAScript -Part IV
+## 18. Built-in Objects of JavaScript/ECMAScript -Part IV
 
 In the  [previous post](https://diganta.hashnode.dev/16-built-in-objects-of-javascriptecmascript-part-iii-ck891r4rs00719as1ft5r7g03) we have explored the very significant built-in **String** object. Now we shall see few more built-in objects.  
   
