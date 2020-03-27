@@ -35,4 +35,6 @@ https://diganta.hashnode.dev/15-built-in-objects-of-javascriptecmascript-part-ii
 16. Built-in Objects of JavaScript/ECMAScript -Part III  
 https://diganta.hashnode.dev/16-built-in-objects-of-javascriptecmascript-part-iii-ck891r4rs00719as1ft5r7g03  
 17. Regular Expressions for JavaScript Explained  
-https://diganta.hashnode.dev/17-regular-expressions-for-javascript-explained-ck891ue3c007r95s1v8oqq5lh
+https://diganta.hashnode.dev/17-regular-expressions-for-javascript-explained-ck891ue3c007r95s1v8oqq5lh  
+18. Built-in Objects of JavaScript/ECMAScript -Part IV  
+https://diganta.hashnode.dev/18-built-in-objects-of-javascriptecmascript-part-iv-ck8ad3ke600ca3rs1y7xdnpyk
